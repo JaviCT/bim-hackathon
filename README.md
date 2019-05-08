@@ -23,9 +23,6 @@ In this sample, we will be creating a simple web page that allows end users to u
 - Translate the file to the SVF format
 - Display the file in a web browser
 
-## Thumbnail
-![thumbnail](/thumbnail.png)
-
 # Setup
 
 ## Prerequisites
